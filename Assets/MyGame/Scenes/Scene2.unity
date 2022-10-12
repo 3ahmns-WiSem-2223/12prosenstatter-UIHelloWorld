@@ -880,7 +880,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1265147577}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 796362b6ed8d0ee498270906d8cfc4cf, type: 3}
+  m_Script: {fileID: 11500000, guid: 20a9ab0c89f6c1c458342c6555667e3d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!4 &1265147579
@@ -1047,8 +1047,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1265147578}
-        m_TargetAssemblyTypeName: SceneManager2, Assembly-CSharp
-        m_MethodName: SceneSwitch
+        m_TargetAssemblyTypeName: ManagerScene, Assembly-CSharp
+        m_MethodName: SceneSwitch2
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
